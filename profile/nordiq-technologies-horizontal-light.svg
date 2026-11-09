@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="Nordiq Technologies">
+  <title>Nordiq Technologies</title>
+  <g transform="translate(10 -50)">
+  <g id="harfang">
+    
+    <path d="M286 214 Q372 170 474 158 Q446 214 300 266 Z" fill="#8CCFE0"/>
+    <path d="M292 248 Q384 214 458 202 L446 222 L432 224 L424 238 L408 238 Q370 264 304 290 Z" fill="#3F97B2"/>
+    <path d="M296 276 Q376 256 432 250 L420 268 L406 270 L396 284 L380 284 L370 296 L354 294 L344 305 L326 302 L298 314 Z" fill="#1E5E78"/>
+    <path d="M392 222 l10 -3 l-4 8 Z M420 214 l10 -3 l-4 8 Z M372 262 l9 -3 l-3 7 Z" fill="#0E2233" opacity=".55"/>
+    <g transform="translate(512 0) scale(-1 1)">
+    <path d="M286 214 Q372 170 474 158 Q446 214 300 266 Z" fill="#8CCFE0"/>
+    <path d="M292 248 Q384 214 458 202 L446 222 L432 224 L424 238 L408 238 Q370 264 304 290 Z" fill="#3F97B2"/>
+    <path d="M296 276 Q376 256 432 250 L420 268 L406 270 L396 284 L380 284 L370 296 L354 294 L344 305 L326 302 L298 314 Z" fill="#1E5E78"/>
+    <path d="M392 222 l10 -3 l-4 8 Z M420 214 l10 -3 l-4 8 Z M372 262 l9 -3 l-3 7 Z" fill="#0E2233" opacity=".55"/>
+    </g>
+    <path d="M256 236 L302 262 L290 330 L256 362 L222 330 L210 262 Z" fill="#BFE6F0" stroke="#FFFFFF" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M256 340 L276 366 L256 394 L236 366 Z" fill="#1E5E78" stroke="#FFFFFF" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M246 300 l10 -6 l10 6 M246 318 l10 -6 l10 6" fill="none" stroke="#0E2233" stroke-width="4" stroke-linecap="round" opacity=".45"/>
+    <circle cx="256" cy="222" r="58" fill="#0E2233" stroke="#FFFFFF" stroke-width="7"/>
+    <path d="M226 206 Q256 220 286 206" fill="none" stroke="#0E2233" stroke-width="3" stroke-linecap="round" opacity=".25"/>
+    <path d="M222 214 L246 222 L232 236 Q220 230 222 214 Z" fill="#F2B632"/>
+    <path d="M290 214 L266 222 L280 236 Q292 230 290 214 Z" fill="#F2B632"/>
+    <circle cx="236" cy="225" r="4.5" fill="#0E2233"/>
+    <circle cx="276" cy="225" r="4.5" fill="#0E2233"/>
+    <path d="M249 238 L263 238 L256 254 Z" fill="#F2B632"/>
+  </g></g><text x="520" y="222" text-anchor="start" font-family="Montserrat, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="120" letter-spacing="24.0" fill="#0E2233">NORDIQ</text><text x="526" y="292" text-anchor="start" font-family="Montserrat, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="500" font-size="40" letter-spacing="20.0" fill="#3F97B2">TECHNOLOGIES</text>
+</svg>
